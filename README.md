@@ -1,2 +1,3 @@
 # Hello-World
-1st Repository
+Hi People
+I like to learn more about programming
